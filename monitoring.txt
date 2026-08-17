@@ -1,0 +1,3 @@
+# Monitoring Configuration
+# Added monitoring support for api-service
+status: enabled
